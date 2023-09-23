@@ -10,7 +10,9 @@ import passIcon from '../../src/assets/images/pass.svg';
 import './Login.scss';
 import { FormattedMessage } from 'react-intl';
 
+
 import adminService from '../services/adminService';
+
 
 class Login extends Component {
     constructor(props) {
