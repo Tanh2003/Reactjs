@@ -58,4 +58,13 @@
     color: rgb(11, 210, 77) !important;
 }
 }
+.container{
+  .form-control:disabled, .form-control[readonly] {
+    background-color: #e9ecef;
+    opacity: 1;
+    width: auto;
+}
+}
+
+
 
