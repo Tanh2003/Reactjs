@@ -22,6 +22,11 @@ class UserManage extends Component {
        }
        
     }
+
+    handleAddNewUser =()=>{
+        alert("click me");
+
+    }
 /**Life cycle
  * Run component:
  * 1.run contrucstor-> init state
@@ -36,6 +41,11 @@ class UserManage extends Component {
             <div className="users-container">
                 <div className='title text-center'>
                     Manage users Ntanh
+                </div>
+                <div>
+                    <button className='btn-create btn btn-primary px-3'
+                    onClick={()=>this.handleAddNewUser()}
+                    ><i className="fas fa-user-plus"></i> Add new users</button>
                 </div>
                 <div className='users-table mt-4 mx-3'>
                 <table id="customers">
