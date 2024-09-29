@@ -51,12 +51,14 @@ Admin
 - Quản lý yêu cầu nghỉ phép(Thêm,sửa,xóa) và hiển thị danh sách yêu cầu nghỉ phép.
 - Quản lý bảng lương(Thêm,sửa,xóa) và hiển thị danh sách bảng lương.
 - Quản lý điểm danh (Thêm,sửa,xóa) và hiển thị danh sách điểm danh.
+
 ==> sẽ bổ sung và nâng cấp thêm các tính năng sớm nhất.
 
 User
 - Đăng nhập bằng tài khoản admin cấp
 - xem chi tiết thông tin trạng thái của mình
 - Gửi và sửa yêu cầu nghỉ phép.
+
 ==> sẽ bổ sung và nâng cấp thêm các tính năng sớm nhất.
 
 ## Hình ảnh 
