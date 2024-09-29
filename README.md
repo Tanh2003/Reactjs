@@ -3,11 +3,9 @@
 [![CI](https://github.com/CircuitVerse/mobile-app/actions/workflows/ci.yml/badge.svg)](https://github.com/CircuitVerse/mobile-app/actions/workflows/ci.yml)
 [![CD](https://github.com/CircuitVerse/mobile-app/actions/workflows/cd.yml/badge.svg)](https://github.com/CircuitVerse/mobile-app/actions/workflows/cd.yml)
 
-Tôi đang sử dụng Next.js 14 và Nodejs express và dùng mongooes để xây dựng một trang web quản lý nguồn nhân lực. Trang web của tôi được thiết kế nhằm tối ưu hóa quy trình quản lý nhân sự, bao gồm việc theo dõi thông tin nhân viên, xử lý yêu cầu nghỉ phép và quản lý bảng lương. Với giao diện thân thiện và dễ sử dụng, hệ thống của tôi giúp cải thiện hiệu quả trong công tác quản lý và nâng cao trải nghiệm cho người dùng.
+Tôi đang sử dụng Next.js 14 và Nodejs Express và dùng MongoDB để xây dựng một trang web quản lý nguồn nhân lực. Trang web của tôi được thiết kế nhằm tối ưu hóa quy trình quản lý nhân sự, bao gồm việc theo dõi thông tin nhân viên, xử lý yêu cầu nghỉ phép và quản lý bảng lương. Với giao diện thân thiện và dễ sử dụng, hệ thống của tôi giúp cải thiện hiệu quả trong công tác quản lý và nâng cao trải nghiệm cho người dùng.
 
-## Trải nghiệm website của tôi [tại đây](tanh2003-human-resource-management-system.vercel.app).
-[Visit the Human Resource Management System](https://tanh2003-human-resource-management-system.vercel.app)
-
+## Trải nghiệm website của tôi [tại đây](https://tanh2003-human-resource-management-system.vercel.app).
 
 ## Sau đây là các bước để chạy website sẽ gồm 2 phần lần lượt là FE và BE:
 ### Đây là hướng dẫn run project ở FE:
@@ -28,7 +26,7 @@ Bước: 7
 
 ### Đây là hướng dẫn run project ở BE:
 Bước: 1
- - Bạn phải tải source code  từ github BE của tôi về [tại đây](https://www.figma.com/design/DaUHqGmrJTtzrQZ4NkVMRo/Adnroid-NC_App_%C4%90i%E1%BB%87n-Tho%E1%BA%A1i?node-id=0-1&t=FwSXPviwQM8RXsnq-1).
+ - Bạn phải tải source code  từ github BE của tôi về [tại đây](https://github.com/Tanh2003/BE_Human_Resource).
 Bước: 2
  - Sau đó bạn phải cài môi trường nodejs bản 20.4.0 nếu đã cài rồi thì thôi 
 Bước: 3
@@ -93,4 +91,6 @@ User
 </p>
 
 ## The End
+Cảm ơn bạn đẽ ghé trang web của tôi.
+Website được thực hiện bởi Nguyễn Tuấn Anh
 Dự án được thực hiện bởi Nguyễn Tuấn Anh
