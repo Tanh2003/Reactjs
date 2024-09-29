@@ -80,7 +80,11 @@ User
 </p>
 
 ## Công nghệ được sử dụng:
-<img src="https://res.cloudinary.com/ddaxowlyn/image/upload/v1727620195/hr_manager/nextsjs_lznjwe.png?raw=true" alt="Splash View" width="200">
+<img src="https://res.cloudinary.com/ddaxowlyn/image/upload/v1727620195/hr_manager/nextsjs_lznjwe.png?raw=true" alt="Splash View" width="100">
+<img src="https://res.cloudinary.com/ddaxowlyn/image/upload/v1727620195/hr_manager/reactjs_qfjuo8.png?raw=true" alt="Splash View" width="100">
+<img src="https://res.cloudinary.com/ddaxowlyn/image/upload/v1727620195/hr_manager/nodejs_b6jgcu.png?raw=true" alt="Splash View" width="100">
+<img src="https://res.cloudinary.com/ddaxowlyn/image/upload/v1727620195/hr_manager/mongo_pyva0q.jpg?raw=true" alt="Splash View" width="100">
+<img src="https://res.cloudinary.com/ddaxowlyn/image/upload/v1727620321/hr_manager/mui_jqyf5k.png?raw=true" alt="Splash View" width="100">
 
 
 
