@@ -52,11 +52,13 @@ Admin
 - Quản lý bảng lương(Thêm,sửa,xóa) và hiển thị danh sách bảng lương.
 - Quản lý điểm danh (Thêm,sửa,xóa) và hiển thị danh sách điểm danh.
 ==> sẽ bổ sung và nâng cấp thêm các tính năng sớm nhất.
+
 User
 - Đăng nhập bằng tài khoản admin cấp
 - xem chi tiết thông tin trạng thái của mình
 - Gửi và sửa yêu cầu nghỉ phép.
 ==> sẽ bổ sung và nâng cấp thêm các tính năng sớm nhất.
+
 ## Hình ảnh 
 
 ### Admin
@@ -90,7 +92,7 @@ User
   <img src="https://res.cloudinary.com/ddaxowlyn/image/upload/v1727620321/hr_manager/mui_jqyf5k.png?raw=true" alt="MUI" width="50">
 </p>
 
-## The End
+## Kết thúc
 Cảm ơn bạn đẽ ghé trang web của tôi.
 Website được thực hiện bởi Nguyễn Tuấn Anh
 Dự án được thực hiện bởi Nguyễn Tuấn Anh
